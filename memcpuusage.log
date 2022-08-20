@@ -1,0 +1,13 @@
+2022-08-20 13:40:44
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0    896   532 ?        Sl   Aug19   0:00 /init
+root         7  0.0  0.0    896    88 ?        Ss   Aug19   0:00 /init
+root         8  0.0  0.0    896    88 ?        S    Aug19   0:01 /init
+dacostar     9  0.0  0.0  10284  5268 pts/0    Ss   Aug19   0:00 -bash
+root       221  0.0  0.0    896    88 ?        Ss   Aug19   0:00 /init
+root       222  0.0  0.0    896    88 ?        S    Aug19   0:07 /init
+dacostar   223  0.0  0.0  10172  5256 pts/1    Ss   Aug19   0:00 -bash
+dacostar  1148  0.0  0.0  10476  5732 pts/1    S+   Aug19   0:01 nano -l gitconnect.sh
+dacostar  2016  0.0  0.0   8620  3304 pts/0    S+   13:40   0:00 /bin/bash ./memcpuusage.sh
+dacostar  2019  0.0  0.0   8620   264 pts/0    S+   13:40   0:00 /bin/bash ./memcpuusage.sh
+dacostar  2020  0.0  0.0  10856  3368 pts/0    R+   13:40   0:00 ps -aux
